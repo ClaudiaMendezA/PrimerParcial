@@ -1,0 +1,22 @@
+h1 {
+  font-family: "Bebas Neue", cursive;
+  color: rgb(172, 12, 12);
+}
+
+footer {
+  color: rgb(158, 6, 6);
+  font-family: "Sansita Swashed", cursive;
+  text-align: justify;
+}
+
+#demo h3 {
+  color: rgb(172, 12, 12);
+  font-family: "Bebas Neue", cursive;
+  font-size: 30px;
+}
+
+#demo p {
+  color: black;
+  font-family: "BenchNine", sans-serif;
+  font-size: 22px;
+}
